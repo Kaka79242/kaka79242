@@ -1,5 +1,1 @@
-<div>
-  <a href="https://github.com/kaka79242">
-  <img height="160em" src="https://camo.githubusercontent.com/d153d5a9c864a5f0f21dd192ecb81c71d7e16475d5dce9d659eb77b59ebce3fd/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6b61796b792d6e756e657333312673686f775f69636f6e733d74727565267468656d653d746f6b796f6e6967687426696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=kaka79242&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
-  <img height="160em" src="https://camo.githubusercontent.com/ed451bb8d9eeb90caa8c1595bb7c159b62c5b615b2c3181e25947b06b9854890/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6b61796b792d6e756e65733331266c61796f75743d636f6d70616374266c616e67735f636f756e743d37267468656d653d746f6b796f6e69676874" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaka79242&amp;layout=compact&amp;langs_count=7&amp;theme=tokyonight" style="max-width: 100%;">
-</a></div>
+
